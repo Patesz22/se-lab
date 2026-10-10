@@ -4,6 +4,8 @@ This is a sample application for the [Software Engineering](http://www.mit.bme.h
 
 The application is simplified and deliberately contains bugs.
 
+[![Java CI with Maven](https://github.com/Patesz22/se-lab/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/Patesz22/se-lab/actions/workflows/maven.yml)
+
 ## Getting started
 
 - The project is implemented in Java 21.
